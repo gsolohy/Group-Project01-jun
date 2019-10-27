@@ -7,7 +7,7 @@ Group Project01
 ## Project Idea
 Research ideal movie to invest in for successful production based on collected data. 
 
-* Anaylsis Notion: Decades worth data will guide us to visualize most popular and possibly successful trends as of today as market always tend to shift by the idea:survival of the fit.
+* Analysis Notion: Decades worth data will guide us to visualize most popular and possibly successful trends as of today as market always tend to shift by the idea:survival of the fit.
 
 ### Release Date vs Movie Genre
 * Filtered by top 4 of mostly produced genres that shows trends over the decade.
